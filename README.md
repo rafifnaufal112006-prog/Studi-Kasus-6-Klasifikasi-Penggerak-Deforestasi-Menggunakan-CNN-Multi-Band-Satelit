@@ -1,1 +1,2 @@
-# Studi-Kasus-6-Klasifikasi-Penggerak-Deforestasi-Menggunakan-CNN-Multi-Band-Satelit
+# Studi Kasus 6 Klasifikasi Penggerak Deforestasi Menggunakan CNN Multi Band Satelit
+Deforestation Driver Classifier adalah sistem berbasis Convolutional Neural Network (CNN) yang memanfaatkan tumpukan citra satelit optik dan radar (Sentinel-1 & Sentinel-2) untuk mendeteksi serta mengklasifikasikan penggerak langsung (direct drivers) deforestasi secara otomatis. Sistem ini dirancang untuk memetakan pemicu alih fungsi lahan—seperti pertanian, penebangan selektif, hingga pertambangan—guna mendukung pemantauan lingkungan dan mitigasi kerusakan hutan secara transparan.
