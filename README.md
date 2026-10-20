@@ -1,0 +1,1 @@
+# Studi-Kasus-6-Klasifikasi-Penggerak-Deforestasi-Menggunakan-CNN-Multi-Band-Satelit
